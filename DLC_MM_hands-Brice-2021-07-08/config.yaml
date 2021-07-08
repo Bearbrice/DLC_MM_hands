@@ -55,7 +55,7 @@ skeleton:
   - bodypart3
 skeleton_color: black
 pcutoff: 0.6
-dotsize: 12
+dotsize: 6
 alphavalue: 0.7
 colormap: rainbow
 
