@@ -23,10 +23,26 @@ video_sets:
   C:\Users\brice\DLC\Projects\DLC_MM_hands\DLC_MM_hands-Brice-2021-07-08\videos\VPers1.mp4:
     crop: 0, 852, 0, 480
 bodyparts:
-- bodypart1
-- bodypart2
-- bodypart3
-- objectA
+- thumbStartLeft
+- thumbEndLeft
+- indexStartLeft
+- indexEndLeft
+- middleStartLeft
+- middleEndLeft
+- ringStartLeft
+- ringEndLeft
+- littleStartLeft
+- littleEndLeft
+- thumbStartRight
+- thumbEndRight
+- indexStartRight
+- indexEndRight
+- middleStartRight
+- middleEndRight
+- ringStartRight
+- ringEndRight
+- littleStartRight
+- littleEndRight
 start: 0
 stop: 1
 numframes2pick: 20
